@@ -99,3 +99,9 @@ mvn spring-boot:run -Dspring-boot.run.profiles=mysql
   - 后端骨架
   - 数据库脚本
   - 文档与仓库规范
+
+## 补充文档
+
+- 项目说明：[docs/project-guide.md](docs/project-guide.md)
+- 架构说明：[docs/architecture.md](docs/architecture.md)
+- GitHub 管理建议：[docs/github-management.md](docs/github-management.md)
