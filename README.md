@@ -105,3 +105,7 @@ mvn spring-boot:run -Dspring-boot.run.profiles=mysql
 - 项目说明：[docs/project-guide.md](docs/project-guide.md)
 - 架构说明：[docs/architecture.md](docs/architecture.md)
 - GitHub 管理建议：[docs/github-management.md](docs/github-management.md)
+- 决策记录：[docs/decision-log.md](docs/decision-log.md)
+- 工作记录：[docs/work-log.md](docs/work-log.md)
+- 实施总结：[docs/implementation-summary.md](docs/implementation-summary.md)
+- 截图归档 PDF：[docs/archive/conversation-screenshots-archive.pdf](docs/archive/conversation-screenshots-archive.pdf)
