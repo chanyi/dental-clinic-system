@@ -1,0 +1,16 @@
+spring:
+  autoconfigure:
+    exclude: []
+  datasource:
+    url: jdbc:mysql://localhost:3306/dental_clinic?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: dental_user
+    password: dental_pass
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: false
